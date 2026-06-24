@@ -1,0 +1,84 @@
+icd11_code,icd11_term,description
+RA01,Rheumatoid arthritis,Chronic autoimmune inflammatory joint disease
+OA01,Osteoarthritis,Degenerative joint disease
+DB01,Diabetes mellitus,Metabolic disorder characterized by hyperglycemia
+GS01,Gastritis,Inflammation of the gastric mucosa
+IBS01,Irritable bowel syndrome,Functional gastrointestinal disorder
+FEV01,Fever,Elevated body temperature due to illness
+AST01,Asthma,Chronic inflammatory airway disease
+AN01,Anemia,Reduced oxygen-carrying capacity of blood
+HEM01,Hemorrhoids,Swollen veins in the anal region
+DI01,Diarrhea,Increased frequency of loose stools
+UR01,Urinary retention,Inability to empty bladder
+UR02,Painful urination,Dysuria due to infection or inflammation
+SK01,Psoriasis,Chronic inflammatory skin disease
+SK02,Eczema,Inflammatory skin condition causing itching
+BL01,Bleeding disorder,Abnormal bleeding tendency
+ED01,Edema,Abnormal fluid accumulation in tissues
+TB01,Tuberculosis,Chronic infectious lung disease
+MH01,Psychotic disorder,Severe mental disorder with loss of reality
+NE01,Epilepsy,Chronic neurological seizure disorder
+NE02,Sciatica,Nerve pain radiating along sciatic nerve
+PA01,Hemiplegia,Paralysis of one side of body
+GI01,Dyspepsia,Indigestion and upper abdominal discomfort
+GI02,Loss of appetite,Reduced desire to eat
+GI03,Vomiting,Forceful expulsion of stomach contents
+GI04,Excessive thirst,Polydipsia
+ENT01,Sinusitis,Inflammation of paranasal sinuses
+ENT02,Ear pain,Otalgia
+OPH01,Conjunctivitis,Inflammation of eye conjunctiva
+DEN01,Oral disease,Disorders of mouth and oral cavity
+DEN02,Toothache,Dental pain
+ABD01,Abdominal mass,Localized swelling in abdomen
+SPL01,Splenomegaly,Enlarged spleen
+LIV01,Liver disease,Hepatic functional disorder
+MET01,Gout,Metabolic disorder causing joint inflammation
+REP01,Infertility,Inability to conceive
+GYN01,Gynecological disorder,Disorders of female reproductive system
+OBS01,Spontaneous abortion,Pregnancy loss before viability
+OBS02,Pregnancy complication,Medical disorder during pregnancy
+PED01,Malnutrition,Nutritional deficiency disorder
+PED02,Delayed milestones,Developmental delay in children
+PED03,Pediatric asthma,Asthma occurring in childhood
+PED04,Pediatric diarrhea,Diarrhea in children
+PED05,Pediatric fever,Fever in children
+OBS03,Obesity,Excessive body fat accumulation
+MET02,Underweight,Low body mass index
+ENT03,Common cold,Acute viral upper respiratory infection
+NE03,Headache,Pain in head region
+NE04,Migraine,Recurrent headache disorder
+NE05,Vertigo,Sensation of spinning
+NE06,Excessive sleepiness,Hypersomnia
+NE07,Chronic fatigue,Persistent fatigue condition
+URO01,Urinary tract disorder,Disorder of urinary system
+NE08,Neuromuscular disorder,Disorders affecting nerves and muscles
+INF01,Viral fever,Fever caused by viral infection
+INF02,Bacterial fever,Fever caused by bacterial infection
+INF03,Mixed infection fever,Fever due to multiple pathogens
+RESP01,Productive cough,Cough with sputum
+RESP02,Dry cough,Non-productive cough
+RESP03,Inflammatory cough,Cough due to airway inflammation
+LIV02,Jaundice,Yellow discoloration due to liver disease
+LIV03,Hepatitis,Inflammation of liver
+PUL01,Pulmonary disease,Disorders of lung
+SEN01,Taste disorder,Altered taste perception
+MET03,Lipid metabolism disorder,Abnormal fat metabolism
+ENDO01,Diabetes-like disorder,Disorder similar to diabetes mellitus
+UR03,Polyuria,Excessive urination
+UR04,Polydipsia,Excessive thirst
+UR05,Polyphagia,Excessive hunger
+UR06,Frequent urination,Increased frequency of urination
+UR07,Nocturia,Nighttime urination
+SK03,Vitiligo,Skin depigmentation disorder
+SK04,Mild skin disorder,Less severe skin condition
+SK05,Severe skin disorder,More serious skin condition
+MS01,Muscle wasting,Progressive loss of muscle mass
+BS01,Bone wasting,Progressive loss of bone density
+BM01,Bone marrow wasting,Reduction in bone marrow function
+REP02,Semen deficiency,Low semen quality or quantity
+IM01,Immunity deficiency,Reduced immune system function
+OBS04,Obesity-related disorder,Health issues associated with obesity
+MET04,Abnormal fat accumulation,Excessive fat storage in body
+GI05,Low digestive fire,Reduced digestive capacity
+GI06,Improper digestion,Faulty digestive process
+
